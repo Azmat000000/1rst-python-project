@@ -242,7 +242,7 @@ is_booked(passengers)
 
 def get_winner(top_players):
     winner=top_players[0]
-    print(f"Game winnerssgit:{winner}")
+    print(f"Game winner:{winner}")
 top_players=["jay","meg","cy"]
 get_winner(top_players)
 
